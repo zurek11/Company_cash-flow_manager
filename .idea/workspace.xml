@@ -1,0 +1,1970 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="Projekt OOP:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="df15c133-9ee4-4e61-bd48-f37588ae96e2" name="Default" comment="" />
+    <ignored path="Projekt OOP.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DatabaseView">
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="ExportToHTMLSettings">
+    <option name="printScope" value="1" />
+    <option name="OUTPUT_DIRECTORY" value="C:\Users\zurek\Desktop\OOP\Projekt OOP\exportToHTML" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Projekt OOP" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="CCFM.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/sk/stubafiit/xzurek/CCFM/CCFM.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="450">
+              <caret line="21" column="31" selection-start-line="21" selection-start-column="11" selection-end-line="21" selection-end-column="31" />
+              <folding>
+                <element signature="imports" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RegMenuView.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/sk/stubafiit/xzurek/RegMenu/RegMenuView.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3250">
+              <caret line="133" column="30" selection-start-line="133" selection-start-column="30" selection-end-line="133" selection-end-column="30" />
+              <folding>
+                <element signature="imports" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FirmMenuView.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/sk/stubafiit/xzurek/FirmMenu/FirmMenuView.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="425">
+              <caret line="20" column="35" selection-start-line="20" selection-start-column="35" selection-end-line="20" selection-end-column="35" />
+              <folding>
+                <element signature="imports" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AdminMenuView.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/sk/stubafiit/xzurek/AdminMenu/AdminMenuView.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1725">
+              <caret line="72" column="24" selection-start-line="72" selection-start-column="24" selection-end-line="72" selection-end-column="24" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ManagerMenuView.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/sk/stubafiit/xzurek/ManagerMenu/ManagerMenuView.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="5675">
+              <caret line="249" column="0" selection-start-line="249" selection-start-column="0" selection-end-line="249" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ManagerMenuControl.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/sk/stubafiit/xzurek/ManagerMenu/ManagerMenuControl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-525">
+              <caret line="22" column="46" selection-start-line="22" selection-start-column="46" selection-end-line="22" selection-end-column="46" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ManagerMenuModel.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/sk/stubafiit/xzurek/ManagerMenu/ManagerMenuModel.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3732">
+              <caret line="174" column="1" selection-start-line="174" selection-start-column="1" selection-end-line="174" selection-end-column="1" />
+              <folding>
+                <marker date="1463303652000" expanded="true" signature="1151:1334" ph="CREATE TABLE... IF" />
+                <marker date="1463303652000" expanded="true" signature="1409:1481" ph="INSERT INTO events... " />
+                <marker date="1463303652000" expanded="true" signature="2176:2207" ph="DELETE FROM " />
+                <marker date="1463303652000" expanded="true" signature="2816:2887" ph="SELECT name,... " />
+                <marker date="1463303652000" expanded="true" signature="3653:3700" ph="SELECT SUM(s... events" />
+                <marker date="1463303652000" expanded="true" signature="4316:4337" ph="SELECT id FR... events" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FirmMenuControl.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/sk/stubafiit/xzurek/FirmMenu/FirmMenuControl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="649">
+              <caret line="82" column="13" selection-start-line="82" selection-start-column="13" selection-end-line="82" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RegMenuControl.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/sk/stubafiit/xzurek/RegMenu/RegMenuControl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1000">
+              <caret line="49" column="52" selection-start-line="49" selection-start-column="52" selection-end-line="49" selection-end-column="52" />
+              <folding>
+                <element signature="imports" expanded="false" />
+                <element signature="e#1190#2798#0" expanded="false" />
+                <element signature="e#2797#2798#0" expanded="false" />
+                <element signature="e#2889#3094#0" expanded="false" />
+                <element signature="e#3093#3094#0" expanded="false" />
+                <element signature="e#3187#3787#0" expanded="false" />
+                <element signature="e#3786#3787#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DefaultControllerParent.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/sk/stubafiit/xzurek/Defaults/DefaultControllerParent.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2425">
+              <caret line="100" column="59" selection-start-line="100" selection-start-column="59" selection-end-line="100" selection-end-column="59" />
+              <folding>
+                <element signature="imports" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="modificationStamps">
+      <map>
+        <entry key="$USER_HOME$/OneDrive for Business/Moje Projekty/magicland" value="5788304920000" />
+      </map>
+    </option>
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/sk/stubafiit/xzurek/GUI/MainMenu.java" />
+        <option value="$PROJECT_DIR$/src/sk/stubafiit/xzurek/Database/Database.java" />
+        <option value="$PROJECT_DIR$/src/sk/stubafiit/xzurek/CCFM/Checker.java" />
+        <option value="$PROJECT_DIR$/src/sk/stubafiit/xzurek/GUI/FirmMenu/MainMenu/MainMenu.java" />
+        <option value="$PROJECT_DIR$/src/sk/stubafiit/xzurek/CCFM/CompanyCashFlowManager.java" />
+        <option value="$PROJECT_DIR$/src/sk/stubafiit/xzurek/CCFM/CCFMControl.java" />
+        <option value="$PROJECT_DIR$/src/sk/stubafiit/xzurek/Database/FirmDatabase/FirmDatabase.java" />
+        <option value="$PROJECT_DIR$/src/sk/stubafiit/xzurek/GUI/FirmMenu/FirmMenu.java" />
+        <option value="$PROJECT_DIR$/src/sk/stubafiit/xzurek/GUI/FirmMenu/FirmMenuModel.java" />
+        <option value="$PROJECT_DIR$/src/sk/stubafiit/xzurek/GUI/FirmMenu/FirmMenuControl.java" />
+        <option value="$PROJECT_DIR$/src/sk/stubafiit/xzurek/CCFM/FirmMenu/FirmMenuView.java" />
+        <option value="$PROJECT_DIR$/src/FirmMenu/FirmMenuView.java" />
+        <option value="$PROJECT_DIR$/src/sk/stubafiit/xzurek/CCFM/CCFM/CCFMControl.java" />
+        <option value="$PROJECT_DIR$/src/sk/stubafiit/xzurek/CCFM/CCFM/CCFM.java" />
+        <option value="$PROJECT_DIR$/src/sk/stubafiit/xzurek/CCFM/CCFM/fff/CCFM.java" />
+        <option value="$PROJECT_DIR$/src/sk/stubafiit/xzurek/CCFM/CCFM/fff/CCFMControl.java" />
+        <option value="$PROJECT_DIR$/src/sk/stubafiit/xzurek/CCFM/FirmMenu/CCFM.java" />
+        <option value="$PROJECT_DIR$/src/sk/stubafiit/xzurek/CCFM.java" />
+        <option value="$PROJECT_DIR$/src/sk/stubafiit/xzurek/CCFM/FirmMenuView.java" />
+        <option value="$PROJECT_DIR$/src/sk/stubafiit/xzurek/Defaults/DefaultView.java" />
+        <option value="$PROJECT_DIR$/src/sk/stubafiit/xzurek/UsersMenu/UsersMenuControl.java" />
+        <option value="$PROJECT_DIR$/src/sk/stubafiit/xzurek/Defaults/DefaultMainMenuView.java" />
+        <option value="$PROJECT_DIR$/src/sk/stubafiit/xzurek/Defaults/DefaultControlerParent.java" />
+        <option value="dbtable:/a65631d/6df8aa81-7d6a-48f8-866c-878a3a59a5cb/events" />
+        <option value="dbtable:/a65631d/13194d2d-c214-4c60-8804-367676ceb62c/events" />
+        <option value="dbtable:/a65631d/3d060210-a6d9-4cfc-aa32-326dfeb6b249/events" />
+        <option value="$PROJECT_DIR$/src/sk/stubafiit/xzurek/Defaults/DefaultModelInterface.java" />
+        <option value="$PROJECT_DIR$/src/sk/stubafiit/xzurek/Defaults/DefaultViewInterface.java" />
+        <option value="$PROJECT_DIR$/src/sk/stubafiit/xzurek/LogMenu/LogMenuView.java" />
+        <option value="$PROJECT_DIR$/src/sk/stubafiit/xzurek/RegLogMenu/RegLogView.java" />
+        <option value="$PROJECT_DIR$/src/sk/stubafiit/xzurek/RegMenu/RegMenuView.java" />
+        <option value="dbtable:/a65631d/a1c8dcc3-abde-44e6-a2d8-a7531bb912bb/events" />
+        <option value="$PROJECT_DIR$/src/sk/stubafiit/xzurek/RegMenu/RegMenuModel.java" />
+        <option value="$PROJECT_DIR$/src/sk/stubafiit/xzurek/FirmMenu/FirmMenuModel.java" />
+        <option value="$PROJECT_DIR$/src/sk/stubafiit/xzurek/RegMenu/RegMenuControl.java" />
+        <option value="$PROJECT_DIR$/src/sk/stubafiit/xzurek/FirmMenu/FirmMenuControl.java" />
+        <option value="$PROJECT_DIR$/src/sk/stubafiit/xzurek/LogMenu/LogMenuControl.java" />
+        <option value="$PROJECT_DIR$/src/sk/stubafiit/xzurek/LogMenu/LogMenuModel.java" />
+        <option value="$PROJECT_DIR$/src/sk/stubafiit/xzurek/ManagerMenu/ManagerMenuControl.java" />
+        <option value="$PROJECT_DIR$/src/sk/stubafiit/xzurek/Defaults/DefaultModelParent.java" />
+        <option value="$PROJECT_DIR$/src/sk/stubafiit/xzurek/Defaults/DefaultUser.java" />
+        <option value="$PROJECT_DIR$/src/sk/stubafiit/xzurek/Defaults/DefaultViewParent.java" />
+        <option value="$PROJECT_DIR$/src/sk/stubafiit/xzurek/AdminMenu/AdminMenuModel.java" />
+        <option value="$PROJECT_DIR$/src/sk/stubafiit/xzurek/AdminMenu/AdminMenuControl.java" />
+        <option value="$PROJECT_DIR$/src/sk/stubafiit/xzurek/ManagerMenu/ManagerMenuModel.java" />
+        <option value="$PROJECT_DIR$/src/sk/stubafiit/xzurek/Defaults/DefaultControllerParent.java" />
+        <option value="$PROJECT_DIR$/src/sk/stubafiit/xzurek/AdminMenu/AdminMenuView.java" />
+        <option value="$PROJECT_DIR$/src/sk/stubafiit/xzurek/CCFM/CCFM.java" />
+        <option value="$PROJECT_DIR$/src/sk/stubafiit/xzurek/RegLogMenu/RegLogControl.java" />
+        <option value="$PROJECT_DIR$/src/sk/stubafiit/xzurek/FirmMenu/FirmMenuView.java" />
+        <option value="$PROJECT_DIR$/src/sk/stubafiit/xzurek/ManagerMenu/ManagerMenuView.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-11" />
+    <option name="y" value="-11" />
+    <option name="width" value="1942" />
+    <option name="height" value="1042" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>AOP</id>
+          </State>
+          <State>
+            <id>Abstraction issuesJava</id>
+          </State>
+          <State>
+            <id>ActionScript specificJavaScript</id>
+          </State>
+          <State>
+            <id>Android</id>
+          </State>
+          <State>
+            <id>Android Lint</id>
+          </State>
+          <State>
+            <id>Annotations verifyingGroovy</id>
+          </State>
+          <State>
+            <id>Application Server Specific Inspections</id>
+          </State>
+          <State>
+            <id>Assignment issuesJava</id>
+          </State>
+          <State>
+            <id>Batch Applications Issues</id>
+          </State>
+          <State>
+            <id>Bitwise operation issuesJava</id>
+          </State>
+          <State>
+            <id>Bitwise operation issuesJavaScript</id>
+          </State>
+          <State>
+            <id>CDI(Contexts and Dependency Injection) issues</id>
+          </State>
+          <State>
+            <id>CSS</id>
+          </State>
+          <State>
+            <id>Class metricsJava</id>
+          </State>
+          <State>
+            <id>Class structureJava</id>
+          </State>
+          <State>
+            <id>Cloning issuesJava</id>
+          </State>
+          <State>
+            <id>Code style issuesJava</id>
+          </State>
+          <State>
+            <id>Code style issuesJavaScript</id>
+          </State>
+          <State>
+            <id>CoffeeScript</id>
+          </State>
+          <State>
+            <id>Control FlowGroovy</id>
+          </State>
+          <State>
+            <id>Control flow issuesJava</id>
+          </State>
+          <State>
+            <id>Control flow issuesJavaScript</id>
+          </State>
+          <State>
+            <id>Cucumber</id>
+          </State>
+          <State>
+            <id>DOM issuesJavaScript</id>
+          </State>
+          <State>
+            <id>Data flow issuesJava</id>
+          </State>
+          <State>
+            <id>Data flow issuesJavaScript</id>
+          </State>
+          <State>
+            <id>Declaration redundancyJava</id>
+          </State>
+          <State>
+            <id>DeclarationGroovy</id>
+          </State>
+          <State>
+            <id>Error handlingJava</id>
+          </State>
+          <State>
+            <id>Finalization issuesJava</id>
+          </State>
+          <State>
+            <id>FlexUnit inspections</id>
+          </State>
+          <State>
+            <id>FreeMarker inspections</id>
+          </State>
+          <State>
+            <id>GSPGrailsGroovy</id>
+          </State>
+          <State>
+            <id>General</id>
+          </State>
+          <State>
+            <id>GeneralJava</id>
+          </State>
+          <State>
+            <id>GeneralJavaScript</id>
+          </State>
+          <State>
+            <id>Google Web Toolkit issues</id>
+          </State>
+          <State>
+            <id>GrailsGroovy</id>
+          </State>
+          <State>
+            <id>Groovy</id>
+          </State>
+          <State>
+            <id>Guice Inspections</id>
+          </State>
+          <State>
+            <id>Hibernate Issues</id>
+          </State>
+          <State>
+            <id>Inheritance issuesJava</id>
+          </State>
+          <State>
+            <id>Initialization issuesJava</id>
+          </State>
+          <State>
+            <id>Internationalization issuesJava</id>
+          </State>
+          <State>
+            <id>J2ME issuesJava</id>
+          </State>
+          <State>
+            <id>JBoss Seam issues</id>
+          </State>
+          <State>
+            <id>JPA issues</id>
+          </State>
+          <State>
+            <id>JSF annotated elements errors</id>
+          </State>
+          <State>
+            <id>JSP Inspections</id>
+          </State>
+          <State>
+            <id>JUnit issuesJava</id>
+          </State>
+          <State>
+            <id>Java</id>
+          </State>
+          <State>
+            <id>Java EE issues</id>
+          </State>
+          <State>
+            <id>Java language level issuesJava</id>
+          </State>
+          <State>
+            <id>Java language level migration aidsJava</id>
+          </State>
+          <State>
+            <id>JavaBeans issuesJava</id>
+          </State>
+          <State>
+            <id>JavaScript</id>
+          </State>
+          <State>
+            <id>JavaScript validity issuesJavaScript</id>
+          </State>
+          <State>
+            <id>Javadoc issuesJava</id>
+          </State>
+          <State>
+            <id>Kotlin</id>
+          </State>
+          <State>
+            <id>Logging issuesJava</id>
+          </State>
+          <State>
+            <id>Manifest</id>
+          </State>
+          <State>
+            <id>Memory issuesJava</id>
+          </State>
+          <State>
+            <id>Method metricsJava</id>
+          </State>
+          <State>
+            <id>Naming conventionsJava</id>
+          </State>
+          <State>
+            <id>Naming conventionsJavaScript</id>
+          </State>
+          <State>
+            <id>Numeric issuesJava</id>
+          </State>
+          <State>
+            <id>OSGi</id>
+          </State>
+          <State>
+            <id>Performance issuesJava</id>
+          </State>
+          <State>
+            <id>Plugin DevKit</id>
+          </State>
+          <State>
+            <id>Portability issuesJava</id>
+          </State>
+          <State>
+            <id>Potentially confusing code constructsGroovy</id>
+          </State>
+          <State>
+            <id>Potentially confusing code constructsJavaScript</id>
+          </State>
+          <State>
+            <id>Probable bugsCoffeeScript</id>
+          </State>
+          <State>
+            <id>Probable bugsJava</id>
+          </State>
+          <State>
+            <id>Properties Files</id>
+          </State>
+          <State>
+            <id>RELAX NG</id>
+          </State>
+          <State>
+            <id>Resource management issuesJava</id>
+          </State>
+          <State>
+            <id>SQL</id>
+          </State>
+          <State>
+            <id>Security issuesJava</id>
+          </State>
+          <State>
+            <id>Serialization issuesJava</id>
+          </State>
+          <State>
+            <id>Spring</id>
+          </State>
+          <State>
+            <id>Spring MVCSpring</id>
+          </State>
+          <State>
+            <id>Spring OSGiSpring</id>
+          </State>
+          <State>
+            <id>Spring SecuritySpring</id>
+          </State>
+          <State>
+            <id>TestNGJava</id>
+          </State>
+          <State>
+            <id>Threading issuesGroovy</id>
+          </State>
+          <State>
+            <id>Threading issuesJava</id>
+          </State>
+          <State>
+            <id>Verbose or redundant code constructsJava</id>
+          </State>
+          <State>
+            <id>Visibility issuesJava</id>
+          </State>
+          <State>
+            <id>WebSocket issues</id>
+          </State>
+          <State>
+            <id>XML</id>
+          </State>
+          <State>
+            <id>XPath</id>
+          </State>
+          <State>
+            <id>XSLT</id>
+          </State>
+          <State>
+            <id>toString() issuesJava</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>DuplicateCondition</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Projekt OOP" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Projekt OOP" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Projekt OOP" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Projekt OOP" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Projekt OOP" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="xzurek" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="RegMenu" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Projekt OOP" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Projekt OOP" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="xzurek" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Projekt OOP" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Projekt OOP" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="xzurek" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ManagerMenu" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Projekt OOP" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Projekt OOP" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="xzurek" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FirmMenu" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Projekt OOP" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Projekt OOP" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="xzurek" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CCFM" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Projekt OOP" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Projekt OOP" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="xzurek" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AdminMenu" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Projekt OOP" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Projekt OOP" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scratches">
+        <subPane />
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="Errors" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="com.intellij.database.dataSource.DataSourceTemplate" value="Sqlite (Xerial)" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\zurek\Desktop\OOP\Projekt OOP\src\sk\stubafiit\xzurek\GUI\FirmMenu\MainMenu" />
+      <recent name="C:\Users\zurek\Desktop\OOP\Projekt OOP\src\sk\stubafiit\xzurek\CCFM" />
+      <recent name="C:\Users\zurek\Desktop\OOP\Projekt OOP\src\sk\stubafiit\xzurek\Database" />
+      <recent name="C:\Users\zurek\Desktop\OOP\Projekt OOP\src\sk\stubafiit\xzurek\GUI\FirmMenu" />
+      <recent name="C:\Users\zurek\Desktop\OOP\Projekt OOP\src\sk\stubafiit\xzurek\GUI" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\zurek\Desktop\OOP\Projekt OOP" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.CCFM (1)">
+    <configuration default="false" name="CompanyCashFlowManager" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="sk.stubafiit.xzurek.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="sk.stubafiit.xzurek.CompanyCashFlowManager" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Projekt OOP" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="CCFM" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="FirmMenu.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="sk.stubafiit.xzurek.CCFM.CCFM.fff.CCFM" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Projekt OOP" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="CCFM (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="sk.stubafiit.xzurek.CCFM.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="sk.stubafiit.xzurek.CCFM.CCFM" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Projekt OOP" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <Java />
+      <Profilers>
+        <option name="GAPID_DISABLE_PCS" value="false" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="EXTRA_OPTIONS" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <Java />
+      <Profilers>
+        <option name="GAPID_DISABLE_PCS" value="false" />
+      </Profilers>
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="myFilePath" />
+      <option name="GLUE" />
+      <option name="myNameFilter" />
+      <option name="myGeneratedName" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlashRunConfigurationType" factoryName="Flash App">
+      <option name="BCName" value="" />
+      <option name="IOSSimulatorSdkPath" value="" />
+      <option name="adlOptions" value="" />
+      <option name="airProgramParameters" value="" />
+      <option name="appDescriptorForEmulator" value="Android" />
+      <option name="debugTransport" value="USB" />
+      <option name="debuggerSdkRaw" value="BC SDK" />
+      <option name="emulator" value="NexusOne" />
+      <option name="emulatorAdlOptions" value="" />
+      <option name="fastPackaging" value="true" />
+      <option name="fullScreenHeight" value="0" />
+      <option name="fullScreenWidth" value="0" />
+      <option name="launchUrl" value="false" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="mobileRunTarget" value="Emulator" />
+      <option name="moduleName" value="" />
+      <option name="overriddenMainClass" value="" />
+      <option name="overriddenOutputFileName" value="" />
+      <option name="overrideMainClass" value="false" />
+      <option name="runTrusted" value="true" />
+      <option name="screenDpi" value="0" />
+      <option name="screenHeight" value="0" />
+      <option name="screenWidth" value="0" />
+      <option name="url" value="http://" />
+      <option name="usbDebugPort" value="7936" />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlexUnitRunConfigurationType" factoryName="FlexUnit" appDescriptorForEmulator="Android" class_name="" emulatorAdlOptions="" method_name="" package_name="" scope="Class">
+      <option name="BCName" value="" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="moduleName" value="" />
+      <option name="trusted" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
+      <setting name="vmparams" value="" />
+      <setting name="cmdLine" value="run-app" />
+      <setting name="passParentEnv" value="true" />
+      <setting name="launchBrowser" value="false" />
+      <setting name="depsClasspath" value="false" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnitTestDiscovery" factoryName="JUnit Test Discovery" changeList="All">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Java Scratch" factoryName="Java Scratch">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SCRATCH_FILE_ID" value="0" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Projekt OOP" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNGTestDiscovery" factoryName="TestNG Test Discovery" changeList="All">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="osgi.bnd.run" factoryName="Run Launcher">
+      <method />
+    </configuration>
+    <configuration default="true" type="osgi.bnd.run" factoryName="Test Launcher (JUnit)">
+      <method />
+    </configuration>
+    <list size="3">
+      <item index="0" class="java.lang.String" itemvalue="Application.CompanyCashFlowManager" />
+      <item index="1" class="java.lang.String" itemvalue="Application.CCFM" />
+      <item index="2" class="java.lang.String" itemvalue="Application.CCFM (1)" />
+    </list>
+    <recent_temporary>
+      <list size="3">
+        <item index="0" class="java.lang.String" itemvalue="Application.CCFM (1)" />
+        <item index="1" class="java.lang.String" itemvalue="Application.CCFM" />
+        <item index="2" class="java.lang.String" itemvalue="Application.CompanyCashFlowManager" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="df15c133-9ee4-4e61-bd48-f37588ae96e2" name="Default" comment="" />
+      <created>1457440758914</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1457440758914</updated>
+      <workItem from="1457440762696" duration="20000" />
+      <workItem from="1457442711081" duration="38000" />
+      <workItem from="1457443087992" duration="1191000" />
+      <workItem from="1457444768612" duration="937000" />
+      <workItem from="1457445744330" duration="963000" />
+      <workItem from="1457446981641" duration="69000" />
+      <workItem from="1457448533236" duration="835000" />
+      <workItem from="1457453166746" duration="1236000" />
+      <workItem from="1457455749622" duration="1421000" />
+      <workItem from="1457508477319" duration="74000" />
+      <workItem from="1457630458489" duration="1284000" />
+      <workItem from="1457645675223" duration="412000" />
+      <workItem from="1457687508433" duration="3265000" />
+      <workItem from="1457691262925" duration="813000" />
+      <workItem from="1457692219346" duration="12893000" />
+      <workItem from="1457766030071" duration="1611000" />
+      <workItem from="1457769853835" duration="8998000" />
+      <workItem from="1457781678719" duration="350000" />
+      <workItem from="1457865223382" duration="949000" />
+      <workItem from="1457968383823" duration="343000" />
+      <workItem from="1458032700083" duration="3210000" />
+      <workItem from="1458036047947" duration="65000" />
+      <workItem from="1458047120236" duration="2064000" />
+      <workItem from="1458049384258" duration="3404000" />
+      <workItem from="1458052941867" duration="66000" />
+      <workItem from="1458061156028" duration="108000" />
+      <workItem from="1458159978611" duration="3571000" />
+      <workItem from="1458167373720" duration="391000" />
+      <workItem from="1458195807694" duration="10043000" />
+      <workItem from="1458307841582" duration="317000" />
+      <workItem from="1458375801722" duration="286000" />
+      <workItem from="1458466896963" duration="619000" />
+      <workItem from="1458483059064" duration="75000" />
+      <workItem from="1458483259652" duration="119000" />
+      <workItem from="1458559784038" duration="175000" />
+      <workItem from="1458562452617" duration="926000" />
+      <workItem from="1458565177401" duration="364000" />
+      <workItem from="1458585296739" duration="5569000" />
+      <workItem from="1458596247349" duration="40000" />
+      <workItem from="1458596875473" duration="528000" />
+      <workItem from="1458634972659" duration="3743000" />
+      <workItem from="1458644350346" duration="4000" />
+      <workItem from="1458644436763" duration="5373000" />
+      <workItem from="1458651976878" duration="5247000" />
+      <workItem from="1458659069379" duration="1764000" />
+      <workItem from="1458817446159" duration="3955000" />
+      <workItem from="1458824709539" duration="1586000" />
+      <workItem from="1458917841116" duration="12503000" />
+      <workItem from="1458940981341" duration="1265000" />
+      <workItem from="1458975132205" duration="16762000" />
+      <workItem from="1459006486787" duration="2076000" />
+      <workItem from="1459012317371" duration="1194000" />
+      <workItem from="1459063388646" duration="646000" />
+      <workItem from="1459064230904" duration="1248000" />
+      <workItem from="1459073340670" duration="390000" />
+      <workItem from="1459077382087" duration="2835000" />
+      <workItem from="1459085782272" duration="1383000" />
+      <workItem from="1459095762936" duration="795000" />
+      <workItem from="1459152114931" duration="28034000" />
+      <workItem from="1459191390564" duration="8200000" />
+      <workItem from="1459200108638" duration="5562000" />
+      <workItem from="1459229900411" duration="8200000" />
+      <workItem from="1459239018369" duration="8857000" />
+      <workItem from="1459252995990" duration="799000" />
+      <workItem from="1459318185094" duration="11738000" />
+      <workItem from="1459334560255" duration="5263000" />
+      <workItem from="1459407324024" duration="11543000" />
+      <workItem from="1459431299727" duration="326000" />
+      <workItem from="1459431821490" duration="2578000" />
+      <workItem from="1459439123111" duration="2822000" />
+      <workItem from="1459850601589" duration="11560000" />
+      <workItem from="1459888111364" duration="2626000" />
+      <workItem from="1459923130971" duration="4376000" />
+      <workItem from="1460011814531" duration="11975000" />
+      <workItem from="1460034132644" duration="14402000" />
+      <workItem from="1460138268159" duration="5691000" />
+      <workItem from="1460144601261" duration="1060000" />
+      <workItem from="1460197992294" duration="24631000" />
+      <workItem from="1460228598351" duration="6053000" />
+      <workItem from="1460235918048" duration="2682000" />
+      <workItem from="1460238682306" duration="372000" />
+      <workItem from="1460271195306" duration="1044000" />
+      <workItem from="1460278000610" duration="238000" />
+      <workItem from="1460278278687" duration="93000" />
+      <workItem from="1460279480338" duration="301000" />
+      <workItem from="1460284619546" duration="164000" />
+      <workItem from="1460285441082" duration="264000" />
+      <workItem from="1460311675166" duration="105000" />
+      <workItem from="1460462788941" duration="5264000" />
+      <workItem from="1461067620619" duration="5466000" />
+      <workItem from="1461672928929" duration="4907000" />
+      <workItem from="1462277351198" duration="4625000" />
+      <workItem from="1462286054918" duration="2848000" />
+      <workItem from="1462289344815" duration="987000" />
+      <workItem from="1462343269363" duration="29168000" />
+      <workItem from="1462389991690" duration="1622000" />
+      <workItem from="1462874025526" duration="1593000" />
+      <workItem from="1462875870362" duration="507000" />
+      <workItem from="1462881614785" duration="1993000" />
+      <workItem from="1462888844312" duration="3617000" />
+      <workItem from="1462948339385" duration="1232000" />
+      <workItem from="1462951217523" duration="905000" />
+      <workItem from="1463207638572" duration="51000" />
+      <workItem from="1463207746829" duration="309000" />
+      <workItem from="1463208211733" duration="588000" />
+      <workItem from="1463227031802" duration="434000" />
+      <workItem from="1463248219787" duration="13388000" />
+      <workItem from="1463261702420" duration="214000" />
+      <workItem from="1463302361689" duration="1955000" />
+      <workItem from="1463304351788" duration="37000" />
+      <workItem from="1463304423978" duration="44000" />
+      <workItem from="1463304531772" duration="29000" />
+      <workItem from="1463305031264" duration="168000" />
+      <workItem from="1463306129947" duration="158000" />
+      <workItem from="1463306354303" duration="77000" />
+      <workItem from="1463312771435" duration="17000" />
+      <workItem from="1463340246859" duration="2027000" />
+      <workItem from="1463420549637" duration="57000" />
+      <workItem from="1465026171233" duration="28000" />
+      <workItem from="1465026311064" duration="150000" />
+      <workItem from="1476970549077" duration="243000" />
+      <workItem from="1476970999015" duration="3256000" />
+      <workItem from="1476977054013" duration="200000" />
+      <workItem from="1477051602219" duration="3026000" />
+      <workItem from="1477079936485" duration="49000" />
+      <workItem from="1477127983769" duration="7454000" />
+      <workItem from="1477583455699" duration="2200000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="414863000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-11" y="-11" width="1942" height="1042" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4384858" sideWeight="0.50292826" order="10" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.95734596" sideWeight="0.49707174" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29243243" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.12481089" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24962178" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24962178" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39770868" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.49121523" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32189542" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="96" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_65/src.zip!/javax/swing/JComboBox.java" />
+    <entry file="dbDummy://dbtable:/a65631d/6df8aa81-7d6a-48f8-866c-878a3a59a5cb/users" />
+    <entry file="dbDummy://dbtable:/a65631d/6df8aa81-7d6a-48f8-866c-878a3a59a5cb/events" />
+    <entry file="dbDummy://dbtable:/a65631d/6df8aa81-7d6a-48f8-866c-878a3a59a5cb/firm" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/13194d2d-c214-4c60-8804-367676ceb62c/console.sql" />
+    <entry file="dbDummy://dbtable:/a65631d/13194d2d-c214-4c60-8804-367676ceb62c/events" />
+    <entry file="dbDummy://dbtable:/a65631d/3d060210-a6d9-4cfc-aa32-326dfeb6b249/events" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/3d060210-a6d9-4cfc-aa32-326dfeb6b249/console.sql" />
+    <entry file="dbDummy://dbtable:/a65631d/a1c8dcc3-abde-44e6-a2d8-a7531bb912bb/sqlite_sequence" />
+    <entry file="dbDummy://dbtable:/a65631d/a1c8dcc3-abde-44e6-a2d8-a7531bb912bb/events" />
+    <entry file="dbDummy://dbtable:/a65631d/a1c8dcc3-abde-44e6-a2d8-a7531bb912bb/users" />
+    <entry file="dbDummy://dbtable:/a65631d/a1c8dcc3-abde-44e6-a2d8-a7531bb912bb/firm" />
+    <entry file="uml://JAVA/sk.stubafiit.xzurek.CCFM.CCFM">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>sk.stubafiit.xzurek.CCFM.CCFM</OriginalElement>
+          <nodes>
+            <node x="" y="">sk.stubafiit.xzurek.CCFM.CCFM</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="33.0" y="15.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/sk.stubafiit.xzurek">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>sk.stubafiit.xzurek</OriginalElement>
+          <nodes>
+            <node x="" y="">sk.stubafiit.xzurek.AdminMenu</node>
+            <node x="" y="">sk.stubafiit.xzurek.CCFM</node>
+            <node x="" y="">sk.stubafiit.xzurek.ManagerMenu</node>
+            <node x="" y="">sk.stubafiit.xzurek.RegMenu</node>
+            <node x="" y="">sk.stubafiit.xzurek.RegLogMenu</node>
+            <node x="" y="">sk.stubafiit.xzurek.Defaults</node>
+            <node x="" y="">sk.stubafiit.xzurek.FirmMenu</node>
+            <node x="" y="">sk.stubafiit.xzurek.LogMenu</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="474.0" y="137.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/sk.stubafiit.xzurek.AdminMenu.AdminMenuControl">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>sk.stubafiit.xzurek.AdminMenu.AdminMenuControl</OriginalElement>
+          <nodes>
+            <node x="" y="">sk.stubafiit.xzurek.AdminMenu.AdminMenuView</node>
+            <node x="" y="">sk.stubafiit.xzurek.RegMenu.RegMenuControl</node>
+            <node x="" y="">sk.stubafiit.xzurek.FirmMenu.FirmMenuModel</node>
+            <node x="" y="">sk.stubafiit.xzurek.CCFM.CCFM</node>
+            <node x="" y="">sk.stubafiit.xzurek.RegLogMenu.RegLogView</node>
+            <node x="" y="">sk.stubafiit.xzurek.AdminMenu.AdminMenuModel</node>
+            <node x="" y="">sk.stubafiit.xzurek.Defaults.DefaultControllerParent</node>
+            <node x="" y="">sk.stubafiit.xzurek.LogMenu.LogMenuControl</node>
+            <node x="" y="">sk.stubafiit.xzurek.Defaults.DefaultModelParent</node>
+            <node x="" y="">sk.stubafiit.xzurek.LogMenu.LogMenuView</node>
+            <node x="" y="">sk.stubafiit.xzurek.ManagerMenu.ManagerMenuModel</node>
+            <node x="" y="">sk.stubafiit.xzurek.RegLogMenu.RegLogControl</node>
+            <node x="" y="">sk.stubafiit.xzurek.LogMenu.LogMenuModel</node>
+            <node x="" y="">sk.stubafiit.xzurek.RegMenu.RegMenuView</node>
+            <node x="" y="">sk.stubafiit.xzurek.RegMenu.RegMenuModel</node>
+            <node x="" y="">sk.stubafiit.xzurek.Defaults.DefaultUser</node>
+            <node x="" y="">sk.stubafiit.xzurek.ManagerMenu.ManagerMenuControl</node>
+            <node x="" y="">sk.stubafiit.xzurek.ManagerMenu.ManagerMenuView</node>
+            <node x="" y="">sk.stubafiit.xzurek.Defaults.DefaultViewParent</node>
+            <node x="" y="">sk.stubafiit.xzurek.Defaults.DefaultModelInterface</node>
+            <node x="" y="">sk.stubafiit.xzurek.Defaults.DefaultViewInterface</node>
+            <node x="" y="">sk.stubafiit.xzurek.AdminMenu.AdminMenuControl</node>
+            <node x="" y="">sk.stubafiit.xzurek.FirmMenu.FirmMenuView</node>
+            <node x="" y="">sk.stubafiit.xzurek.FirmMenu.FirmMenuControl</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="0.8239644970414202" x="393.0" y="288.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="dbDummy://dbtable:/a65631d/69b9c9bb-466d-4bd2-aa92-36beeeb189f2/events" />
+    <entry file="dbDummy://dbtable:/a65631d/69b9c9bb-466d-4bd2-aa92-36beeeb189f2/firm" />
+    <entry file="dbDummy://dbtable:/a65631d/69b9c9bb-466d-4bd2-aa92-36beeeb189f2/users" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/69b9c9bb-466d-4bd2-aa92-36beeeb189f2/console.sql" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/a1c8dcc3-abde-44e6-a2d8-a7531bb912bb/console.sql" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/a8d3acd5-54d6-41df-bea5-9ddcf01152e8/console.sql" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_65/src.zip!/javax/swing/plaf/basic/BasicButtonListener.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_65/src.zip!/java/awt/event/ActionListener.java" />
+    <entry file="dbDummy://dbtable:/a65631d/a8d3acd5-54d6-41df-bea5-9ddcf01152e8/events" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/27d51335-7ff6-4e32-80eb-29d4db8a24e0/console.sql" />
+    <entry file="dbDummy://dbtable:/a65631d/27d51335-7ff6-4e32-80eb-29d4db8a24e0/events" />
+    <entry file="file://$PROJECT_DIR$/src/sk/stubafiit/xzurek/Defaults/DefaultModelInterface.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="52" selection-start-line="5" selection-start-column="52" selection-end-line="5" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sk/stubafiit/xzurek/Defaults/DefaultModelParent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="468">
+          <caret line="240" column="0" selection-start-line="240" selection-start-column="0" selection-end-line="240" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sk/stubafiit/xzurek/Defaults/DefaultUser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-62">
+          <caret line="22" column="27" selection-start-line="22" selection-start-column="27" selection-end-line="22" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sk/stubafiit/xzurek/LogMenu/LogMenuView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-119">
+          <caret line="57" column="5" selection-start-line="57" selection-start-column="5" selection-end-line="57" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sk/stubafiit/xzurek/RegLogMenu/RegLogView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="23" column="7" selection-start-line="23" selection-start-column="7" selection-end-line="23" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sk/stubafiit/xzurek/RegMenu/RegMenuModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="124">
+          <caret line="29" column="43" selection-start-line="29" selection-start-column="43" selection-end-line="29" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sk/stubafiit/xzurek/AdminMenu/AdminMenuModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sk/stubafiit/xzurek/FirmMenu/FirmMenuModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="27" column="13" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Diagram.uml">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>sk.stubafiit.xzurek.AdminMenu.AdminMenuControl</OriginalElement>
+          <nodes>
+            <node x="306.0" y="563.0">sk.stubafiit.xzurek.RegMenu.RegMenuControl</node>
+            <node x="249.0" y="168.0">sk.stubafiit.xzurek.AdminMenu.AdminMenuView</node>
+            <node x="138.0" y="637.0">sk.stubafiit.xzurek.CCFM.CCFM</node>
+            <node x="137.0" y="400.0">sk.stubafiit.xzurek.FirmMenu.FirmMenuModel</node>
+            <node x="132.0" y="168.0">sk.stubafiit.xzurek.RegLogMenu.RegLogView</node>
+            <node x="278.0" y="400.0">sk.stubafiit.xzurek.AdminMenu.AdminMenuModel</node>
+            <node x="367.25" y="474.0">sk.stubafiit.xzurek.Defaults.DefaultControllerParent</node>
+            <node x="275.5" y="321.0">sk.stubafiit.xzurek.Defaults.DefaultModelParent</node>
+            <node x="751.0" y="563.0">sk.stubafiit.xzurek.LogMenu.LogMenuControl</node>
+            <node x="676.0" y="168.0">sk.stubafiit.xzurek.LogMenu.LogMenuView</node>
+            <node x="431.0" y="400.0">sk.stubafiit.xzurek.ManagerMenu.ManagerMenuModel</node>
+            <node x="619.0" y="563.0">sk.stubafiit.xzurek.RegLogMenu.RegLogControl</node>
+            <node x="595.0" y="400.0">sk.stubafiit.xzurek.LogMenu.LogMenuModel</node>
+            <node x="548.0" y="168.0">sk.stubafiit.xzurek.RegMenu.RegMenuView</node>
+            <node x="0.0" y="400.0">sk.stubafiit.xzurek.RegMenu.RegMenuModel</node>
+            <node x="0.0" y="637.0">sk.stubafiit.xzurek.Defaults.DefaultUser</node>
+            <node x="449.0" y="563.0">sk.stubafiit.xzurek.ManagerMenu.ManagerMenuControl</node>
+            <node x="393.0" y="168.0">sk.stubafiit.xzurek.ManagerMenu.ManagerMenuView</node>
+            <node x="321.25" y="79.0">sk.stubafiit.xzurek.Defaults.DefaultViewParent</node>
+            <node x="269.5" y="242.0">sk.stubafiit.xzurek.Defaults.DefaultModelInterface</node>
+            <node x="315.25" y="0.0">sk.stubafiit.xzurek.Defaults.DefaultViewInterface</node>
+            <node x="159.0" y="563.0">sk.stubafiit.xzurek.FirmMenu.FirmMenuControl</node>
+            <node x="0.0" y="563.0">sk.stubafiit.xzurek.AdminMenu.AdminMenuControl</node>
+            <node x="0.0" y="168.0">sk.stubafiit.xzurek.FirmMenu.FirmMenuView</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="sk.stubafiit.xzurek.RegMenu.RegMenuView" target="sk.stubafiit.xzurek.Defaults.DefaultViewParent">
+              <point x="0.0" y="-14.5" />
+              <point x="602.0" y="138.0" />
+              <point x="418.0" y="138.0" />
+              <point x="32.25" y="14.5" />
+            </edge>
+            <edge source="sk.stubafiit.xzurek.RegMenu.RegMenuModel" target="sk.stubafiit.xzurek.Defaults.DefaultModelParent">
+              <point x="0.0" y="-14.5" />
+              <point x="58.5" y="370.0" />
+              <point x="289.3" y="370.0" />
+              <point x="-55.19999999999999" y="14.5" />
+            </edge>
+            <edge source="sk.stubafiit.xzurek.Defaults.DefaultViewParent" target="sk.stubafiit.xzurek.Defaults.DefaultViewInterface">
+              <point x="0.0" y="-14.5" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="sk.stubafiit.xzurek.FirmMenu.FirmMenuView" target="sk.stubafiit.xzurek.Defaults.DefaultViewParent">
+              <point x="0.0" y="-14.5" />
+              <point x="56.0" y="128.0" />
+              <point x="332.0" y="128.0" />
+              <point x="-53.75" y="14.5" />
+            </edge>
+            <edge source="sk.stubafiit.xzurek.AdminMenu.AdminMenuView" target="sk.stubafiit.xzurek.Defaults.DefaultViewParent">
+              <point x="0.0" y="-14.5" />
+              <point x="311.0" y="148.0" />
+              <point x="375.0" y="148.0" />
+              <point x="-10.75" y="14.5" />
+            </edge>
+            <edge source="sk.stubafiit.xzurek.LogMenu.LogMenuView" target="sk.stubafiit.xzurek.Defaults.DefaultViewParent">
+              <point x="0.0" y="-14.5" />
+              <point x="730.0" y="128.0" />
+              <point x="439.5" y="128.0" />
+              <point x="53.75" y="14.5" />
+            </edge>
+            <edge source="sk.stubafiit.xzurek.AdminMenu.AdminMenuModel" target="sk.stubafiit.xzurek.Defaults.DefaultModelParent">
+              <point x="0.0" y="-14.5" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="sk.stubafiit.xzurek.ManagerMenu.ManagerMenuModel" target="sk.stubafiit.xzurek.Defaults.DefaultModelParent">
+              <point x="0.0" y="-14.5" />
+              <point x="503.0" y="380.0" />
+              <point x="372.1" y="380.0" />
+              <point x="27.600000000000023" y="14.5" />
+            </edge>
+            <edge source="sk.stubafiit.xzurek.FirmMenu.FirmMenuControl" target="sk.stubafiit.xzurek.Defaults.DefaultControllerParent">
+              <point x="0.0" y="-14.5" />
+              <point x="222.5" y="533.0" />
+              <point x="406.5" y="533.0" />
+              <point x="-39.25" y="14.5" />
+            </edge>
+            <edge source="sk.stubafiit.xzurek.RegLogMenu.RegLogControl" target="sk.stubafiit.xzurek.Defaults.DefaultControllerParent">
+              <point x="0.0" y="-14.5" />
+              <point x="675.0" y="533.0" />
+              <point x="485.0" y="533.0" />
+              <point x="39.25" y="14.5" />
+            </edge>
+            <edge source="sk.stubafiit.xzurek.AdminMenu.AdminMenuControl" target="sk.stubafiit.xzurek.Defaults.DefaultControllerParent">
+              <point x="0.0" y="-14.5" />
+              <point x="69.5" y="523.0" />
+              <point x="380.33333333333326" y="523.0" />
+              <point x="-65.41666666666669" y="14.5" />
+            </edge>
+            <edge source="sk.stubafiit.xzurek.LogMenu.LogMenuControl" target="sk.stubafiit.xzurek.Defaults.DefaultControllerParent">
+              <point x="0.0" y="-14.5" />
+              <point x="812.5" y="523.0" />
+              <point x="511.16666666666663" y="523.0" />
+              <point x="65.41666666666669" y="14.5" />
+            </edge>
+            <edge source="sk.stubafiit.xzurek.Defaults.DefaultModelParent" target="sk.stubafiit.xzurek.Defaults.DefaultModelInterface">
+              <point x="0.0" y="-14.5" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="sk.stubafiit.xzurek.RegLogMenu.RegLogView" target="sk.stubafiit.xzurek.Defaults.DefaultViewParent">
+              <point x="0.0" y="-14.5" />
+              <point x="180.5" y="138.0" />
+              <point x="353.5" y="138.0" />
+              <point x="-32.25" y="14.5" />
+            </edge>
+            <edge source="sk.stubafiit.xzurek.RegMenu.RegMenuControl" target="sk.stubafiit.xzurek.Defaults.DefaultControllerParent">
+              <point x="0.0" y="-14.5" />
+              <point x="367.5" y="543.0" />
+              <point x="432.66666666666663" y="543.0" />
+              <point x="-13.083333333333314" y="14.5" />
+            </edge>
+            <edge source="sk.stubafiit.xzurek.ManagerMenu.ManagerMenuView" target="sk.stubafiit.xzurek.Defaults.DefaultViewParent">
+              <point x="0.0" y="-14.5" />
+              <point x="460.5" y="148.0" />
+              <point x="396.5" y="148.0" />
+              <point x="10.75" y="14.5" />
+            </edge>
+            <edge source="sk.stubafiit.xzurek.FirmMenu.FirmMenuModel" target="sk.stubafiit.xzurek.Defaults.DefaultModelParent">
+              <point x="0.0" y="-14.5" />
+              <point x="197.5" y="380.0" />
+              <point x="316.9" y="380.0" />
+              <point x="-27.600000000000023" y="14.5" />
+            </edge>
+            <edge source="sk.stubafiit.xzurek.ManagerMenu.ManagerMenuControl" target="sk.stubafiit.xzurek.Defaults.DefaultControllerParent">
+              <point x="0.0" y="-14.5" />
+              <point x="524.0" y="543.0" />
+              <point x="458.83333333333337" y="543.0" />
+              <point x="13.083333333333371" y="14.5" />
+            </edge>
+            <edge source="sk.stubafiit.xzurek.LogMenu.LogMenuModel" target="sk.stubafiit.xzurek.Defaults.DefaultModelParent">
+              <point x="0.0" y="-14.5" />
+              <point x="653.5" y="370.0" />
+              <point x="399.7" y="370.0" />
+              <point x="55.19999999999999" y="14.5" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="0.8119533527696793" x="438.0" y="393.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sk/stubafiit/xzurek/LogMenu/LogMenuModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="21" column="19" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sk/stubafiit/xzurek/LogMenu/LogMenuControl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="975">
+          <caret line="49" column="61" selection-start-line="49" selection-start-column="61" selection-end-line="49" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sk/stubafiit/xzurek/RegLogMenu/RegLogControl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="13" selection-end-column="3" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#1043#1213#0" expanded="false" />
+            <element signature="e#1212#1213#0" expanded="false" />
+            <element signature="e#1310#1480#0" expanded="false" />
+            <element signature="e#1479#1480#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sk/stubafiit/xzurek/AdminMenu/AdminMenuControl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2725">
+          <caret line="116" column="13" selection-start-line="116" selection-start-column="13" selection-end-line="116" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#2535#2536#0" expanded="false" />
+            <element signature="e#2581#2582#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sk/stubafiit/xzurek/Defaults/DefaultViewInterface.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="10" column="31" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sk/stubafiit/xzurek/Defaults/DefaultViewParent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7100">
+          <caret line="287" column="1" selection-start-line="0" selection-start-column="0" selection-end-line="287" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#553#554#0" expanded="false" />
+            <element signature="e#582#583#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sk/stubafiit/xzurek/CCFM/CCFM.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="21" column="31" selection-start-line="21" selection-start-column="11" selection-end-line="21" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sk/stubafiit/xzurek/Defaults/DefaultControllerParent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2425">
+          <caret line="100" column="59" selection-start-line="100" selection-start-column="59" selection-end-line="100" selection-end-column="59" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sk/stubafiit/xzurek/FirmMenu/FirmMenuView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="20" column="35" selection-start-line="20" selection-start-column="35" selection-end-line="20" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sk/stubafiit/xzurek/RegMenu/RegMenuView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3250">
+          <caret line="133" column="30" selection-start-line="133" selection-start-column="30" selection-end-line="133" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sk/stubafiit/xzurek/RegMenu/RegMenuControl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1000">
+          <caret line="49" column="52" selection-start-line="49" selection-start-column="52" selection-end-line="49" selection-end-column="52" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#1190#2798#0" expanded="false" />
+            <element signature="e#2797#2798#0" expanded="false" />
+            <element signature="e#2889#3094#0" expanded="false" />
+            <element signature="e#3093#3094#0" expanded="false" />
+            <element signature="e#3187#3787#0" expanded="false" />
+            <element signature="e#3786#3787#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sk/stubafiit/xzurek/FirmMenu/FirmMenuControl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="649">
+          <caret line="82" column="13" selection-start-line="82" selection-start-column="13" selection-end-line="82" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sk/stubafiit/xzurek/AdminMenu/AdminMenuView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1725">
+          <caret line="72" column="24" selection-start-line="72" selection-start-column="24" selection-end-line="72" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sk/stubafiit/xzurek/ManagerMenu/ManagerMenuModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3732">
+          <caret line="174" column="1" selection-start-line="174" selection-start-column="1" selection-end-line="174" selection-end-column="1" />
+          <folding>
+            <marker date="1463303652000" expanded="true" signature="1151:1334" ph="CREATE TABLE... IF" />
+            <marker date="1463303652000" expanded="true" signature="1409:1481" ph="INSERT INTO events... " />
+            <marker date="1463303652000" expanded="true" signature="2176:2207" ph="DELETE FROM " />
+            <marker date="1463303652000" expanded="true" signature="2816:2887" ph="SELECT name,... " />
+            <marker date="1463303652000" expanded="true" signature="3653:3700" ph="SELECT SUM(s... events" />
+            <marker date="1463303652000" expanded="true" signature="4316:4337" ph="SELECT id FR... events" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sk/stubafiit/xzurek/ManagerMenu/ManagerMenuView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5675">
+          <caret line="249" column="0" selection-start-line="249" selection-start-column="0" selection-end-line="249" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sk/stubafiit/xzurek/ManagerMenu/ManagerMenuControl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-525">
+          <caret line="22" column="46" selection-start-line="22" selection-start-column="46" selection-end-line="22" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>Projekt OOP:jar</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Projekt OOP</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>sqlite-jdbc-3.8.11.2</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>sk.stubafiit.xzurek.AdminMenu.AdminMenuControl</OriginalElement>
+  <nodes>
+    <node x="306.0" y="563.0">sk.stubafiit.xzurek.RegMenu.RegMenuControl</node>
+    <node x="249.0" y="168.0">sk.stubafiit.xzurek.AdminMenu.AdminMenuView</node>
+    <node x="138.0" y="637.0">sk.stubafiit.xzurek.CCFM.CCFM</node>
+    <node x="137.0" y="400.0">sk.stubafiit.xzurek.FirmMenu.FirmMenuModel</node>
+    <node x="132.0" y="168.0">sk.stubafiit.xzurek.RegLogMenu.RegLogView</node>
+    <node x="278.0" y="400.0">sk.stubafiit.xzurek.AdminMenu.AdminMenuModel</node>
+    <node x="367.25" y="474.0">sk.stubafiit.xzurek.Defaults.DefaultControllerParent</node>
+    <node x="275.5" y="321.0">sk.stubafiit.xzurek.Defaults.DefaultModelParent</node>
+    <node x="751.0" y="563.0">sk.stubafiit.xzurek.LogMenu.LogMenuControl</node>
+    <node x="676.0" y="168.0">sk.stubafiit.xzurek.LogMenu.LogMenuView</node>
+    <node x="431.0" y="400.0">sk.stubafiit.xzurek.ManagerMenu.ManagerMenuModel</node>
+    <node x="619.0" y="563.0">sk.stubafiit.xzurek.RegLogMenu.RegLogControl</node>
+    <node x="595.0" y="400.0">sk.stubafiit.xzurek.LogMenu.LogMenuModel</node>
+    <node x="548.0" y="168.0">sk.stubafiit.xzurek.RegMenu.RegMenuView</node>
+    <node x="0.0" y="400.0">sk.stubafiit.xzurek.RegMenu.RegMenuModel</node>
+    <node x="0.0" y="637.0">sk.stubafiit.xzurek.Defaults.DefaultUser</node>
+    <node x="449.0" y="563.0">sk.stubafiit.xzurek.ManagerMenu.ManagerMenuControl</node>
+    <node x="393.0" y="168.0">sk.stubafiit.xzurek.ManagerMenu.ManagerMenuView</node>
+    <node x="321.25" y="79.0">sk.stubafiit.xzurek.Defaults.DefaultViewParent</node>
+    <node x="269.5" y="242.0">sk.stubafiit.xzurek.Defaults.DefaultModelInterface</node>
+    <node x="315.25" y="0.0">sk.stubafiit.xzurek.Defaults.DefaultViewInterface</node>
+    <node x="0.0" y="168.0">sk.stubafiit.xzurek.FirmMenu.FirmMenuView</node>
+    <node x="159.0" y="563.0">sk.stubafiit.xzurek.FirmMenu.FirmMenuControl</node>
+    <node x="0.0" y="563.0">sk.stubafiit.xzurek.AdminMenu.AdminMenuControl</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="sk.stubafiit.xzurek.RegMenu.RegMenuView" target="sk.stubafiit.xzurek.Defaults.DefaultViewParent">
+      <point x="0.0" y="-14.5" />
+      <point x="602.0" y="138.0" />
+      <point x="418.0" y="138.0" />
+      <point x="32.25" y="14.5" />
+    </edge>
+    <edge source="sk.stubafiit.xzurek.RegMenu.RegMenuModel" target="sk.stubafiit.xzurek.Defaults.DefaultModelParent">
+      <point x="0.0" y="-14.5" />
+      <point x="58.5" y="370.0" />
+      <point x="289.3" y="370.0" />
+      <point x="-55.19999999999999" y="14.5" />
+    </edge>
+    <edge source="sk.stubafiit.xzurek.Defaults.DefaultViewParent" target="sk.stubafiit.xzurek.Defaults.DefaultViewInterface">
+      <point x="0.0" y="-14.5" />
+      <point x="0.0" y="14.5" />
+    </edge>
+    <edge source="sk.stubafiit.xzurek.FirmMenu.FirmMenuView" target="sk.stubafiit.xzurek.Defaults.DefaultViewParent">
+      <point x="0.0" y="-14.5" />
+      <point x="56.0" y="128.0" />
+      <point x="332.0" y="128.0" />
+      <point x="-53.75" y="14.5" />
+    </edge>
+    <edge source="sk.stubafiit.xzurek.LogMenu.LogMenuView" target="sk.stubafiit.xzurek.Defaults.DefaultViewParent">
+      <point x="0.0" y="-14.5" />
+      <point x="730.0" y="128.0" />
+      <point x="439.5" y="128.0" />
+      <point x="53.75" y="14.5" />
+    </edge>
+    <edge source="sk.stubafiit.xzurek.AdminMenu.AdminMenuView" target="sk.stubafiit.xzurek.Defaults.DefaultViewParent">
+      <point x="0.0" y="-14.5" />
+      <point x="311.0" y="148.0" />
+      <point x="375.0" y="148.0" />
+      <point x="-10.75" y="14.5" />
+    </edge>
+    <edge source="sk.stubafiit.xzurek.AdminMenu.AdminMenuModel" target="sk.stubafiit.xzurek.Defaults.DefaultModelParent">
+      <point x="0.0" y="-14.5" />
+      <point x="0.0" y="14.5" />
+    </edge>
+    <edge source="sk.stubafiit.xzurek.ManagerMenu.ManagerMenuModel" target="sk.stubafiit.xzurek.Defaults.DefaultModelParent">
+      <point x="0.0" y="-14.5" />
+      <point x="503.0" y="380.0" />
+      <point x="372.1" y="380.0" />
+      <point x="27.600000000000023" y="14.5" />
+    </edge>
+    <edge source="sk.stubafiit.xzurek.FirmMenu.FirmMenuControl" target="sk.stubafiit.xzurek.Defaults.DefaultControllerParent">
+      <point x="0.0" y="-14.5" />
+      <point x="222.5" y="533.0" />
+      <point x="406.5" y="533.0" />
+      <point x="-39.25" y="14.5" />
+    </edge>
+    <edge source="sk.stubafiit.xzurek.RegLogMenu.RegLogControl" target="sk.stubafiit.xzurek.Defaults.DefaultControllerParent">
+      <point x="0.0" y="-14.5" />
+      <point x="675.0" y="533.0" />
+      <point x="485.0" y="533.0" />
+      <point x="39.25" y="14.5" />
+    </edge>
+    <edge source="sk.stubafiit.xzurek.AdminMenu.AdminMenuControl" target="sk.stubafiit.xzurek.Defaults.DefaultControllerParent">
+      <point x="0.0" y="-14.5" />
+      <point x="69.5" y="523.0" />
+      <point x="380.33333333333326" y="523.0" />
+      <point x="-65.41666666666669" y="14.5" />
+    </edge>
+    <edge source="sk.stubafiit.xzurek.LogMenu.LogMenuControl" target="sk.stubafiit.xzurek.Defaults.DefaultControllerParent">
+      <point x="0.0" y="-14.5" />
+      <point x="812.5" y="523.0" />
+      <point x="511.16666666666663" y="523.0" />
+      <point x="65.41666666666669" y="14.5" />
+    </edge>
+    <edge source="sk.stubafiit.xzurek.Defaults.DefaultModelParent" target="sk.stubafiit.xzurek.Defaults.DefaultModelInterface">
+      <point x="0.0" y="-14.5" />
+      <point x="0.0" y="14.5" />
+    </edge>
+    <edge source="sk.stubafiit.xzurek.RegLogMenu.RegLogView" target="sk.stubafiit.xzurek.Defaults.DefaultViewParent">
+      <point x="0.0" y="-14.5" />
+      <point x="180.5" y="138.0" />
+      <point x="353.5" y="138.0" />
+      <point x="-32.25" y="14.5" />
+    </edge>
+    <edge source="sk.stubafiit.xzurek.RegMenu.RegMenuControl" target="sk.stubafiit.xzurek.Defaults.DefaultControllerParent">
+      <point x="0.0" y="-14.5" />
+      <point x="367.5" y="543.0" />
+      <point x="432.66666666666663" y="543.0" />
+      <point x="-13.083333333333314" y="14.5" />
+    </edge>
+    <edge source="sk.stubafiit.xzurek.ManagerMenu.ManagerMenuView" target="sk.stubafiit.xzurek.Defaults.DefaultViewParent">
+      <point x="0.0" y="-14.5" />
+      <point x="460.5" y="148.0" />
+      <point x="396.5" y="148.0" />
+      <point x="10.75" y="14.5" />
+    </edge>
+    <edge source="sk.stubafiit.xzurek.FirmMenu.FirmMenuModel" target="sk.stubafiit.xzurek.Defaults.DefaultModelParent">
+      <point x="0.0" y="-14.5" />
+      <point x="197.5" y="380.0" />
+      <point x="316.9" y="380.0" />
+      <point x="-27.600000000000023" y="14.5" />
+    </edge>
+    <edge source="sk.stubafiit.xzurek.ManagerMenu.ManagerMenuControl" target="sk.stubafiit.xzurek.Defaults.DefaultControllerParent">
+      <point x="0.0" y="-14.5" />
+      <point x="524.0" y="543.0" />
+      <point x="458.83333333333337" y="543.0" />
+      <point x="13.083333333333371" y="14.5" />
+    </edge>
+    <edge source="sk.stubafiit.xzurek.LogMenu.LogMenuModel" target="sk.stubafiit.xzurek.Defaults.DefaultModelParent">
+      <point x="0.0" y="-14.5" />
+      <point x="653.5" y="370.0" />
+      <point x="399.7" y="370.0" />
+      <point x="55.19999999999999" y="14.5" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="0.8119533527696793" x="437.6301615798923" y="393.0" />
+  <SelectedNodes />
+  <Categories />
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
